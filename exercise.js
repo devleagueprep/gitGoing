@@ -4,42 +4,42 @@
 This repo will self-destruct in five seconds. Good luck!*/
 
 /*Mission 1: 
-Team Member: 
+Team Member: Sean
 
 Create a function that will sum three number values.*/
 
 /*Mission 2: 
-Team Member: 
+Team Member: Yao
 
 Create a function that will concatenate two string values*/
 
 /*Mission 3:
-Team Member: 
+Team Member: Tyler
 
 Create a function that will add a new element into an array.*/
 
 /*Mission 4:
-Team Member: 
+Team Member: Reese
 
 Create a function that will verify entry for a club. Patrons must be 22 and over to be admitted into the club.*/
 
 /*Mission 5:
-Team Member: 
+Team Member: Jace
 
 Create a function that will convert dollars to yen based on today's foreign exchange rate.*/
 
 /*Mission 6:
-Team Member: 
+Team Member: Cyrus
 
 Create a function that will convert miles to kilometers.*/
 
 /*Mission 7:
-Team Member: 
+Team Member: Ben
 
 Create a function that will check integers and return true for even and false for odd.*/
 
 /*Mission 8:
-Team Member: 
+Team Member: May
 
 Create a function that will check your budget. Create the following return statements based on the budget amount: 
 
