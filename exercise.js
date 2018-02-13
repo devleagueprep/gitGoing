@@ -17,7 +17,11 @@ Create a function that will concatenate two string values*/
 Team Member: Tyler
 
 Create a function that will add a new element into an array.*/
+var favoriteFoods = ["Ramen", "Sushi", "Curry"];
+console.log(favoriteFoods);
 
+favoriteFoods.push("Loco Moco");
+console.log(favoriteFoods);
 /*Mission 4:
 Team Member: Reese
 
