@@ -4,7 +4,6 @@
 This repo will self-destruct in five seconds Good luck!*/
 
 console.log("test");
-console.log("one more");
 /*Mission 1: 
 Team Member: 
 
