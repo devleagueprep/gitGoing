@@ -47,4 +47,14 @@ Create a function that will check your budget. Create the following return state
 <50 => "Keep coding"
 >50 => "Donut King!"*/
 
+function checkBudget(num){
+	if(num<20)
+		return "Need to hustle";
+	else if(num<50)
+		return "Keep coding";
+	else if(num>50)
+		return "Donut King!";
+}
 
+var sen = checkBudget(24);
+console.log(sen);
