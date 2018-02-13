@@ -8,6 +8,12 @@ Team Member: Sean
 
 Create a function that will sum three number values.*/
 
+function sumThree(num1, num2, num3){
+	return num1 + num2 + num3;
+}
+
+console.log(sumThree(1, 2, 3));
+
 /*Mission 2: 
 Team Member: Yao
 
