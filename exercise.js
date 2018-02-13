@@ -14,6 +14,7 @@ function sumThree(num1, num2, num3){
 
 console.log(sumThree(1, 2, 3));
 
+//abc*//
 /*Mission 2: 
 Team Member: Yao
 
