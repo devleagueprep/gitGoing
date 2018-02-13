@@ -21,7 +21,17 @@ Create a function that will add a new element into an array.*/
 /*Mission 4:
 Team Member: Reese
 
+
 Create a function that will verify entry for a club. Patrons must be 22 and over to be admitted into the club.*/
+
+function clubCheck(age){
+	if(age >= 22){
+		return true;
+	}else{
+		return false;
+	}
+}
+console.log(clubCheck(28));
 
 /*Mission 5:
 Team Member: Jace
