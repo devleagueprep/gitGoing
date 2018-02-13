@@ -38,6 +38,11 @@ Team Member: Ben
 
 Create a function that will check integers and return true for even and false for odd.*/
 
+function isEven(number){
+  return number % 2 == 0;
+}
+// console.log(isEven(2));
+
 /*Mission 8:
 Team Member: May
 
