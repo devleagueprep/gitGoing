@@ -3,7 +3,7 @@
 
 This repo will self-destruct in five seconds Good luck!*/
 
-
+console.log("test");
 /*Mission 1: 
 Team Member: 
 
