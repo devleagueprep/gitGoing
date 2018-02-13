@@ -33,6 +33,11 @@ Team Member: Cyrus
 
 Create a function that will convert miles to kilometers.*/
 
+function milesToKilometers(miles) {
+	return miles * 1.60934;
+}
+
+
 /*Mission 7:
 Team Member: Ben
 
