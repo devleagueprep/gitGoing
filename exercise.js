@@ -30,6 +30,7 @@ Create a function that will verify entry for a club. Patrons must be 22 and over
 /*Mission 5:
 Team Member: Jace
 
+
 Create a function that will convert dollars to yen based on today's foreign exchange rate.*/
 
 /*Mission 6:
@@ -56,4 +57,7 @@ Create a function that will check your budget. Create the following return state
 <50 => "Keep coding"
 >50 => "Donut King!"*/
 
-
+function crypto(USD){
+	return(USD * 108.37)
+}
+console.log("¥" , crypto(100));
